@@ -1,0 +1,6 @@
+@VendasPos_HostAddress = http://localhost:5225
+
+GET {{VendasPos_HostAddress}}/
+Accept: application/json
+
+###
